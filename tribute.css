@@ -1,7 +1,8 @@
 #title {
-  font-family: fantasy;
+  font-family: sans-serif;
   text-align: center;
-  padding-left: 15px;
+  padding: 15px;
+  position: relative;
 }
 
 #tribute-link {
@@ -10,10 +11,12 @@
 }
 #img-div {
   padding-left: 15px;
+  padding-right: 10px;
 }
 
 #img-div2 {
   padding-left: 15px;
+  padding-right: 10px;
 }
 
 .border {
@@ -32,4 +35,15 @@
 
 .color {
    background-color: white;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+  max-width: 900px;
+  max-height: 400px;
 }
