@@ -1,14 +1,19 @@
 #title {
   font-family: fantasy;
   text-align: center;
+  padding-left: 15px;
 }
 
+#tribute-link {
+  padding-left: 15px;
+  padding-bottom: 10px;
+}
 #img-div {
-
+  padding-left: 15px;
 }
 
 #img-div2 {
-
+  padding-left: 15px;
 }
 
 .border {
@@ -18,7 +23,7 @@
 }
 
 .background {
-  background-color: black;
+  background-image: url("steel_bg.jpg");
 }
 
 .margin {
@@ -26,5 +31,5 @@
 }
 
 .color {
-   background-color: #ADD8E6;
+   background-color: white;
 }
