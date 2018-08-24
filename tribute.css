@@ -1,0 +1,30 @@
+#title {
+  font-family: fantasy;
+  text-align: center;
+}
+
+#img-div {
+
+}
+
+#img-div2 {
+
+}
+
+.border {
+  border-width: thin;
+  border-style: solid;
+  border-radius: 5px 20px 5px 20px;
+}
+
+.background {
+  background-color: black;
+}
+
+.margin {
+  margin: 15px;
+}
+
+.color {
+   background-color: #ADD8E6;
+}
